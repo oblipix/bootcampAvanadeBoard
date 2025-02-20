@@ -68,9 +68,3 @@ mvn clean install
 mvn compile exec:java -Dexec.mainClass="br.seuprojeto.view.TarefaView"
 ```
 
-## Autores
-- **Seu Nome** - [@seuusuario](https://github.com/seuusuario)
-
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
